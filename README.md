@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=383635&center=true&vCenter=true&width=500&lines=Kevin+Miranda;Computer+Engineering;AI+%26+Automation" alt="Typing SVG" />
+<h1>
+Hey there, I'm Kevin
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="30">
+</h1>
+<img src="./assets/dino.gif" width="380" alt="Dino Run GIF">
 </div>
 <br>
 <div align="center">
@@ -8,16 +12,24 @@
 <img src="https://img.shields.io/badge/-Automation-EC5E1E?style=flat-square&logo=zapier&logoColor=white" />
 </div>
 <br>
-<p align="center">
-Computer Engineering student building intelligent, automated systems —<br>
-always looking for the simplest, cleanest way to solve a problem.
-</p>
+About Me
+I'm a Computer Engineering student at the Tecnológico de Costa Rica, drawn to the space where artificial intelligence meets automation. I like taking something that's manual and a little messy and turning it into a system that just works — simply and cleanly.
+<img src="https://api.iconify.design/mdi:school-outline.svg?color=%23028ECC" width="16">  Computer Engineering — Tecnológico de Costa Rica
 <br>
-<h3 align="center">Stack</h3>
+<img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23EC5E1E" width="16">  Exploring AI-driven and automated systems
+<br>
+<img src="https://api.iconify.design/mdi:sprout-outline.svg?color=%23FBBF02" width="16">  Always learning something new
+<br>
+<br>
+Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,java,js,react,tailwind,css,mysql&perline=8" alt="Tech Stack" />
 </div>
 <br>
+Let's Connect
+Always open to a conversation about AI, automation, or anything tech.
 <div align="center">
-<sub>Open to talking tech, AI, and new ideas</sub>
+<img src="https://api.iconify.design/mdi:sparkles-outline.svg?color=%23383635" width="16">
+<br>
+<sub>Thanks for stopping by</sub>
 </div>
